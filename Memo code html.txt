@@ -1,0 +1,23 @@
+Memo Coding: 
+- Home : index.html
+- Balise/Tag:<nom> Des trucs </nom>
+- Doctype: version html utilisé
+- <head> : paramètre de la page
+- <body>: ce qui est visible par l'utilisateur
+- <meta charset="utf-8"> caractères spéciaux heureux
+- <h1> à <h6> : Titres
+- <p> : Zone de texte
+- <ul>/<ol> avec des <li> : lister 
+- mettre un url : <a href="https...."> voir le site </a>
+- balise {} cibles toutes les balises
+- title{} cobles les balises HTML qui ont la class title
+- Id = class SAUF QUE un nom d'id ne peut être utilisé qu'une seule fois sur son site 
+
+
+
+Devoirs: -1 page ou +
+        - zonning de votre page 
+        -usage des éléments html/css en cours 
+        - thème imposé
+        - présenter avec le plus de details possibles
+        un objet connécté

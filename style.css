@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:rgb(51, 198, 235);
+}
+
+p {
+    color:rgb(42, 20, 138);
+    font-size: 36px;
+    text-align: center;
+}
+
+.title {
+    font-size: 72px;
+    color:rgb(21, 43, 102);
+    font-family: 'Orbitron', sans-serif;
+}
+.red {
+    color:rgb(8, 43, 107);
+    text-align: center;
+}
+
+img {
+    width:50%;
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bloc{
+    background-color: rgb(11, 91, 122);
+    height: 250px;
+    width: 75%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 60px;
+}
+
+.bloc:hover {
+    background-color: rgb(105, 165, 221);
+}
+
+.bloc:hover p {
+    font-size: 50px;
+}
+
+.container{
+    background-color: cornflowerblue;
+    height: 400px;
+    margin-top: 60px;
+    padding: 30px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.boite1 {
+    width:30%;
+    height:150px;
+    border: solid 2px rgb(89, 230, 240)
+}
+
+.boite2 {
+    width:30%;
+    height:150px;
+    border: solid 2px rgb(99, 211, 219)
+}
+
+.boite3 {
+    width:30%;
+    height:150px;
+    border: solid 2px rgb(103, 223, 231)
+}
+
+.container2 img {
+    width: 40%;
+}
+
+.container2 div {
+    width: 40%;
+}
+
+html, body {
+    scroll-behavior: smooth;
+}
